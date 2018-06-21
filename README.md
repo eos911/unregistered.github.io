@@ -1,14 +1,7 @@
 # EOS911
 
-This is a Web app aimed at helping people retrieve their stolen EOS accounts.
+This is a Web app aimed at helping people register their EOS accounts that were not correctly registered.
 
-There are 3 ways to use this:
-
-- Using the EOS911 recovery website
-- Proving ownership using a Hardware wallet
-- Generating your keypairs offline
-
-You can find out a more detailed run through @ https://blog.eos42.io/eos911-recovery-process/
 
 ## Dependencies
 
